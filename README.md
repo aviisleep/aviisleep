@@ -1,4 +1,7 @@
-[![]([https://github.com/aviisleep/aviisleep/blob/main/assets/aviigif.gif])](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+<p align="center">
+<img src="https://github.com/aviisleep/aviisleep/blob/main/assets/aviigif.gif" alt="Hi, I'm Javier 👋 I'm a 🚀 Venezolano developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
+
 
 ### Languages
 
